@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @twinfacer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-twinfacer/twinfacer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in cyber security and all stuff related to IT.
+- 📫 How to reach me
+  - you can try via email twinfacer@gmail.com   
