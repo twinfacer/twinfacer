@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @twinfacer - multi purpose IT expert 🤖.
-- 👀 I’m interested in cyber security, web applications and all other stuff related to IT.
+- 👀 I’m interested in cyber security, web applications and most other stuff related to IT.
 - 10+ years of WEB development expirience.
 - 📫 How to reach me
   - you can try via email twinfacer@gmail.com   
